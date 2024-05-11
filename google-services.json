@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152775002089",
+    "project_id": "spam-banksjhj",
+    "storage_bucket": "spam-banksjhj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152775002089:android:9532c2d78623f419b9ad78",
+        "android_client_info": {
+          "package_name": "billlly.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdOZJIiKfRgOyQyOLJ0sqBX8kxlNELLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
